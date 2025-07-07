@@ -1,1 +1,2 @@
 python:alpine3.19
+qemu-user-static:latest

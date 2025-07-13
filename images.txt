@@ -2,3 +2,4 @@ python:alpine3.19
 multiarch/qemu-user-static:latest
 eclipse-temurin:17-jre-alpine
 --platform linux/amd64 eclipse-temurin:17-jre-alpine
+openjdk:8-jre-slim
